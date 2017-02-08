@@ -1,7 +1,2 @@
-Fanzine 8;5
-Pandas;9
-Pingouins;7
-Pépino;12
-DBDD;12
-Cahier colo;4
-Mr Eugène;15
+album 1;5
+album 2;3.50
